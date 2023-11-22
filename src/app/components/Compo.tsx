@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import me from "../../../../../../phone uploads/IMG20230214172828.jpg";
+import me from "../components/pics/348485016_219015677639938_3656891413611691551_n.jpg";
 
 
 const Compo = () => {
